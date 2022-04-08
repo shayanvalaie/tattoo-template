@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tattoo-shop/static/css/main.68c43366.css",
+    "main.js": "/tattoo-shop/static/js/main.e4a9776c.js",
+    "static/js/787.309a93c4.chunk.js": "/tattoo-shop/static/js/787.309a93c4.chunk.js",
+    "static/media/home-hero.png": "/tattoo-shop/static/media/home-hero.064b99e9e81774ee3f3d.png",
+    "index.html": "/tattoo-shop/index.html",
+    "main.68c43366.css.map": "/tattoo-shop/static/css/main.68c43366.css.map",
+    "main.e4a9776c.js.map": "/tattoo-shop/static/js/main.e4a9776c.js.map",
+    "787.309a93c4.chunk.js.map": "/tattoo-shop/static/js/787.309a93c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68c43366.css",
+    "static/js/main.e4a9776c.js"
+  ]
+}
