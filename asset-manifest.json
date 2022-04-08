@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tattoo-shop/static/css/main.68c43366.css",
-    "main.js": "/tattoo-shop/static/js/main.e4a9776c.js",
-    "static/js/787.309a93c4.chunk.js": "/tattoo-shop/static/js/787.309a93c4.chunk.js",
-    "static/media/home-hero.png": "/tattoo-shop/static/media/home-hero.064b99e9e81774ee3f3d.png",
-    "index.html": "/tattoo-shop/index.html",
-    "main.68c43366.css.map": "/tattoo-shop/static/css/main.68c43366.css.map",
-    "main.e4a9776c.js.map": "/tattoo-shop/static/js/main.e4a9776c.js.map",
-    "787.309a93c4.chunk.js.map": "/tattoo-shop/static/js/787.309a93c4.chunk.js.map"
+    "main.css": "/tattoo-template/static/css/main.3dbc0faa.css",
+    "main.js": "/tattoo-template/static/js/main.b9017bb3.js",
+    "static/js/787.309a93c4.chunk.js": "/tattoo-template/static/js/787.309a93c4.chunk.js",
+    "static/media/home-hero.png": "/tattoo-template/static/media/home-hero.064b99e9e81774ee3f3d.png",
+    "index.html": "/tattoo-template/index.html",
+    "main.3dbc0faa.css.map": "/tattoo-template/static/css/main.3dbc0faa.css.map",
+    "main.b9017bb3.js.map": "/tattoo-template/static/js/main.b9017bb3.js.map",
+    "787.309a93c4.chunk.js.map": "/tattoo-template/static/js/787.309a93c4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.68c43366.css",
-    "static/js/main.e4a9776c.js"
+    "static/css/main.3dbc0faa.css",
+    "static/js/main.b9017bb3.js"
   ]
 }
