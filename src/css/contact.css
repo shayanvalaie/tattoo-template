@@ -1,0 +1,21 @@
+.center-form {
+   
+    font-family: "Roboto",sans-serif;
+   
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 85vh;
+}
+
+
+.error-message {
+    color: #AF0606 !important;
+    font-style: italic;
+}
+
+
+  
+

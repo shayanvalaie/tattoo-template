@@ -1,0 +1,23 @@
+
+  .main-info {
+   
+    flex-direction: column;
+    font-family: "Roboto",sans-serif;
+    background-image: url('../images/PremiumAesthetic/home-hero.png');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    
+    
+  }
+
+  .white-input {
+    
+    color: white !important;
+    
+  }
+
+
+  
